@@ -1,4 +1,4 @@
-### Hello there 👋 <br> I'm Luís Nunes, or CToH10
+### Hello there 👋 <br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=008080&multiline=true&width=435&lines=I'm+Lu%C3%ADs+Nunes;Or+CToH10)](https://git.io/typing-svg)
 - 🔭 I’m a Front End Developer looking for a opportunity to work on my first job.
 - 🌱 I’m currently learning Back End Web Development on Kenzie Academy Brasil.
 - 💬 Ask me about practically anything, I love sports, games, manga, reading, really just about anything.
