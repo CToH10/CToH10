@@ -1,6 +1,6 @@
 ### Hello there 👋 <br> I'm Luís Nunes, or CToH10
+- 🔭 I’m a Front End Developer looking for a opportunity to work on my first job.
 - 🌱 I’m currently learning Back End Web Development on Kenzie Academy Brasil.
-- 🔭 I’m currently a Front End Developer looking for a opportunity to work on my first job.
 - 💬 Ask me about practically anything, I love sports, games, manga, reading, really just about anything.
 - 😄 Pronouns: any traditional prounoun will do (he/she/they).
 - ⚡ Fun fact: I used to be a lawyer, but practicing law didn't inspire any passion in me, so I changed fields.
